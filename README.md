@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <br />
 
 
-- I'm into music, code and answer to the Ultimate Question of Life, the Universe, and Everything
+- I'm into music, code, travel and answer to the Ultimate Question of Life, the Universe, and Everything
 - 💬 Ask me about anything [here](https://github.com/bat-cha/bat-cha/issues)
 
